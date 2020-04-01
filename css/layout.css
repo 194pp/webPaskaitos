@@ -1,0 +1,22 @@
+header {
+    background-color: lightpink;
+    width: 1000px;
+    height: 100px;
+}
+footer {
+    background-color: darkgray;
+    color: white;
+    width: 1000px;
+    height: 100px;
+}
+aside {
+    background-color: lightpink;
+    width: 300px;
+    height: 300px;
+}
+main {
+    background-color: #feff86;
+    width: 700px;
+    height: 300px;
+}
+

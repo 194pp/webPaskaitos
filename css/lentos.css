@@ -1,0 +1,21 @@
+body {
+    width: 700px;
+}
+div {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 24px;
+    background-color: rgb(71,70,74);
+    float: left;
+}
+.melyna {
+    background-color: cornflowerblue;
+}
+.raudona {
+    background-color: lightpink;
+}
+.zalia {
+    background-color: darkolivegreen;
+}
